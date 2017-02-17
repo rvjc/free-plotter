@@ -8,7 +8,7 @@ Anyway, to cut a long story short, my son took this program and ran with it for 
 
 This program requires Python 3.x (turtle comes as standard) and runs on any platform. At the time, we tested it on Python 3.2. The help is self-explanatory and some sample plots are provided to get you started.
 
-The last four sample plots are "square" waves based on compositions of Sine waves. This was a sneaky introduction to the Fourier Series which might lead to a better understanding of harmonics, etc for a young music buff. However, it didn't get any traction at the time  because he was too damned distracted with programming!    
+The last four sample plots are "square" waves based on compositions of Sine waves. This was a sneaky introduction to the Fourier Series which might lead to a better understanding of harmonics, etc for a young music buff. However, it didn't get any traction at the time  because he was too damned distracted with for/while loops!    
 
 ## Screenshots
 
