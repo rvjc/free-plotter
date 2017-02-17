@@ -8,7 +8,7 @@ Anyway, to cut a long story short, my son took to this program enthusiastically 
 
 This program requires Python 3.x (Turtle comes as standard) and should run on any platform. At the time, we tested it on Windows with Python 3.2. To make things interesting, up to three color-coded equations can be plotted simultaneously. The command menu is self-explanatory and some sample built-in plots are provided to get you started.
 
-The last four sample plots are "square" waves based on various compositions of Sine waves. This sneaky introduction to the Fourier Series might have led to a better understanding of harmonics for a young music buff. Unfortunately, it passed him by because he had become totally besotted with for/while loops!    
+The last four sample plots are "square" waves based on various compositions of Sine waves. This sneaky introduction to the Fourier Series might have led to a better understanding of harmonics for a young music buff. Unfortunately, he was too besotted with for/while loops to notice.
 
 ## Screenshots
 
