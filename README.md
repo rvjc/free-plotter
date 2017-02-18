@@ -6,7 +6,7 @@ Around that time he was also doing manual plots of non-trivial functions at scho
 
 Anyway, to cut a long story short, my son took to this program enthusiastically and ran with it for about ten nanoseconds before throwing it out and starting again in his own inimitable, stubborn way. This is always a sure sign of a natural programmer whose hard edges have not yet been blunted by dot com bubbles, global recessions and HR managers. Within a few weeks, he felt confident enough to write a cute little program for Physics class to simulate reflections and refractions. The following year, he won a national computational challenge and it has been all downhill ever since.
 
-This program requires Python 3.x (Turtle comes as standard) and should run on any platform. At the time, we tested it on Windows with Python 3.2. To make things interesting, up to three color-coded equations can be plotted simultaneously. The command menu is self-explanatory and some sample built-in plots are provided to get you started.
+This program requires Python 3.x (Turtle comes as standard) and should run on any platform. At the time, we tested it on Windows 7 with Python 3.2. To make things interesting, up to three color-coded equations can be plotted simultaneously. The command menu is self-explanatory and some sample built-in plots are provided to get you started.
 
 The last four sample plots are "square" waves based on various compositions of Sine waves. This sneaky introduction to the Fourier Series might have led to a better understanding of harmonics for a young music buff. Unfortunately, he was too besotted with for/while loops to notice.
 
